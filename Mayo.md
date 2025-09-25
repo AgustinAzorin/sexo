@@ -28,7 +28,7 @@
 ### Semana 2 de mayo
 
 **Objetivo de la semana:**
-* Asegurar el hardware de la impresora 3D  mediante una alianza.
+* Asegurar el hardware de la impresora 3D  mediante un patrocinio.
 * Iniciar la programación y la simulación del prototipo.
 
 **Actividades realizadas:**
